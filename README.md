@@ -14,7 +14,7 @@ Recent Computer Science Graduate from [Victoria University of Wellington](https:
 
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
-
+...
 <!--END_SECTION:blog-->
 
 <p align='center'> </br>
