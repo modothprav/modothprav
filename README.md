@@ -14,7 +14,8 @@ Recent Computer Science Graduate from [Victoria University of Wellington](https:
 
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
-...
+* [Optimising Interest Earned on Savings for Tertiary Students](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;03&#x2F;07&#x2F;optimising-interest-earned-on-savings-for-tertiary-students&#x2F;)
+* [How to Move files among different repos and Retain Git History](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;02&#x2F;26&#x2F;how-to-move-files-among-different-repos-and-retain-git-history&#x2F;)
 <!--END_SECTION:blog-->
 
 <p align='center'> </br>
