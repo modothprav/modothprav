@@ -4,6 +4,9 @@ on:
   schedule:
     # Frist day of the Month
     - cron: 0 0 1 * *
+  push:
+    branches:
+      - master
 
 jobs:
   update:
