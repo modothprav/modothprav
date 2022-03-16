@@ -13,3 +13,4 @@ jobs:
         with:
           feed-url: https://blog.pravinmodotholi.me/index.xml
           readme-section: blog
+          branch: master
