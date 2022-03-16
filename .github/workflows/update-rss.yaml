@@ -1,0 +1,15 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    # Frist day of the Month
+    - cron: 0 0 1 * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.pravinmodotholi.me/index.xml
+          readme-section: blog
