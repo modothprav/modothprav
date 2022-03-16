@@ -18,6 +18,9 @@ Recent Computer Science Graduate from [Victoria University of Wellington](https:
 * [How to Move files among different repos and Retain Git History](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;02&#x2F;26&#x2F;how-to-move-files-among-different-repos-and-retain-git-history&#x2F;)
 <!--END_SECTION:blog-->
 
+</br>
+
+# 🧪 GitHub Profile Stats
 <p align='center'> </br>
 <img src="https://github-readme-stats.vercel.app/api?username=modothprav&theme=dark&show_icons=true&hide=stars" alt="Pravin Modotholi's Github Stats"></img>
 </p>
@@ -29,5 +32,5 @@ I chose to be in the technology industry to contribute my share towards innovati
 Knowing more about the world around me and solving various problems always created a spark of curiosity within me. This curiosity led me here to find out how technology that surrounds our day to day lives behaves and what can I do to improve upon creations made by our past generations. I enjoy the level of satisfaction obtained when finding a solution to a complex problem which motivates me to go look for another one and urges me to come back for more.
 
 --- 
-<p align='right'> <img src="https://img.shields.io/github/followers/modothprav.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on Github" </p>
+<p align='right'> <img src="https://img.shields.io/github/followers/modothprav.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on Github"/></p>
 
