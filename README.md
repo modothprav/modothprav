@@ -10,7 +10,7 @@ Recent Computer Science Graduate from [Victoria University of Wellington](https:
 - 🏋🏽 Exercising at the Gym
 - 🏦 Investing and personal finance
 
-![Coding gif]()
+<p align='center'> </br><img src="https://github.com/modothprav/modothprav/blob/master/coding.gif" alt="Coding Gif"></p>
 
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
