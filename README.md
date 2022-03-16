@@ -13,8 +13,6 @@ Recent Computer Science Graduate from [Victoria University of Wellington](https:
 - 🏦 Investing and personal finance
 - 🎮 Playing video games
 
-</br>
-
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
 * [Optimising Interest Earned on Savings for Tertiary Students](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;03&#x2F;07&#x2F;optimising-interest-earned-on-savings-for-tertiary-students&#x2F;)
