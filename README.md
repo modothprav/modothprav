@@ -1,12 +1,13 @@
 # Hey there, I’m [Pravin Modotholi](https://linktr.ee/pravin.modotholi) 👋
 
-Recent Computer Science Graduate from [Victoria University of Wellington](https://www.wgtn.ac.nz/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7jQbdKpkahq5OvYAvWQfUB8jHe_VaSOH3lANZqinclxH6qwpeBqwFxoCZHIQAvD_BwE), and an aspiring software developer. I am currently open to opportunities and have previously interned as a _Node JS developer_ at [ANZ New Zealand](https://www.anz.co.nz/personal/) and as a part-time _RPA developer_ at [BDO Wellington](https://www.bdo.nz/en-nz/wellington?gclid=CjwKCAjw8sCRBhA6EiwA6_IF4R2VAwp3nFb21KTBEDnMeTe-ZLaJojGpehENOAoSiS-WmX-jETWOuBoC85wQAvD_BwE).
+I'm a Graduate Software Engineer at [Provoke Solutions]() currently in the process of upskilling myself in C# .NET Core and Microsoft Azure cloud. 
+Have previously worked on the Open banking project as an intern _Node JS developer_ at [ANZ New Zealand](https://www.anz.co.nz/personal/) and on various Automation Projects as a _RPA developer_ at [BDO Wellington](https://www.bdo.nz/en-nz/wellington?gclid=CjwKCAjw8sCRBhA6EiwA6_IF4R2VAwp3nFb21KTBEDnMeTe-ZLaJojGpehENOAoSiS-WmX-jETWOuBoC85wQAvD_BwE). I completed my studies in 2021 gaining a Bachelor of Science Degree majoring in Computer Science and Finance from from [Victoria University of Wellington](https://www.wgtn.ac.nz/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7jQbdKpkahq5OvYAvWQfUB8jHe_VaSOH3lANZqinclxH6qwpeBqwFxoCZHIQAvD_BwE).
 
 <img align='right' src="https://github.com/modothprav/modothprav/blob/master/coding.gif" alt="Coding Gif" width=400 height=300>
 
 # 🎨 Hobbies and Interests
 
-- 🌱 Currently learning all things Frontend
+- 🌱 Currently learning C# and Azure cloud
 - 📖 Reading books on personal development, psychology and finance
 - 🈷️  Watching movies, anime and tv shows
 - 🏋🏽 Exercising at the Gym
