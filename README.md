@@ -18,6 +18,7 @@ Have previously worked on the Open banking project as an intern _Node JS develop
 
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
+* [Automatically Contribute Leetcode Solutions to Github](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;04&#x2F;27&#x2F;automatically-contribute-leetcode-solutions-to-github&#x2F;)
 * [Page Object Model with Selenium](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;03&#x2F;27&#x2F;page-object-model-with-selenium&#x2F;)
 * [Optimising Interest Earned on Savings for Tertiary Students](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;03&#x2F;07&#x2F;optimising-interest-earned-on-savings-for-tertiary-students&#x2F;)
 * [How to Move files among different repos and Retain Git History](https:&#x2F;&#x2F;blog.pravinmodotholi.me&#x2F;2022&#x2F;02&#x2F;26&#x2F;how-to-move-files-among-different-repos-and-retain-git-history&#x2F;)
