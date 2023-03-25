@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://blog.pravinmodotholi.me/index.xml
+          feed-url: https://blog.pravinmodotholi.live/index.xml
           readme-section: blog
           branch: master
