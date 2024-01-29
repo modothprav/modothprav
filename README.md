@@ -9,7 +9,7 @@
 
 # 🎨 Hobbies and Interests
 
-- 🌱 Currently learning NodeJs and Swift Programming
+- 🌱 Currently learning NodeJs
 - 📖 Reading books on personal development, psychology and finance
 - 🈷️  Watching movies, anime and tv shows
 - 🏋🏽 Exercising at the Gym
