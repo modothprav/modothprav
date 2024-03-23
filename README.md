@@ -20,9 +20,9 @@
 
 # ✏️ Latest Blog Posts 
 <!--START_SECTION:blog-->
-* [Automatically Contribute Leetcode Solutions to Github](https:&#x2F;&#x2F;blog.pravinmodotholi.live&#x2F;2022&#x2F;04&#x2F;27&#x2F;automatically-contribute-leetcode-solutions-to-github&#x2F;)
-* [Page Object Model with Selenium](https:&#x2F;&#x2F;blog.pravinmodotholi.live&#x2F;2022&#x2F;03&#x2F;27&#x2F;page-object-model-with-selenium&#x2F;)
-* [How to Move files among different repos and Retain Git History](https:&#x2F;&#x2F;blog.pravinmodotholi.live&#x2F;2022&#x2F;02&#x2F;26&#x2F;how-to-move-files-among-different-repos-and-retain-git-history&#x2F;)
+* [Automatically Contribute Leetcode Solutions to Github](https:&#x2F;&#x2F;blog.pravinmodotholi.tech&#x2F;2022&#x2F;04&#x2F;27&#x2F;automatically-contribute-leetcode-solutions-to-github&#x2F;)
+* [Page Object Model with Selenium](https:&#x2F;&#x2F;blog.pravinmodotholi.tech&#x2F;2022&#x2F;03&#x2F;27&#x2F;page-object-model-with-selenium&#x2F;)
+* [How to Move files among different repos and Retain Git History](https:&#x2F;&#x2F;blog.pravinmodotholi.tech&#x2F;2022&#x2F;02&#x2F;26&#x2F;how-to-move-files-among-different-repos-and-retain-git-history&#x2F;)
 <!--END_SECTION:blog-->
 
 </br>
