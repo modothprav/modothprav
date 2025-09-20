@@ -5,9 +5,9 @@
 >
 > \- Martin Fowler
 
-<img align='right' src="https://github.com/modothprav/modothprav/blob/master/coding.gif" alt="Coding Gif" width=400 height=300>
 
 # 🎨 Hobbies and Interests
+<img align='right' src="https://github.com/modothprav/modothprav/blob/master/coding.gif" alt="Coding Gif" width=350 height=250>
 
 - 🌱 Currently learning NodeJs
 - 📖 Reading books on personal development, psychology and finance
